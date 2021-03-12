@@ -11,6 +11,11 @@ def new_awesome_feature():
     return "it so awesome!"
 
 
+def hello():
+    return "hello"
+
+def run():
+    print("Miosya")
 if __name__ == "__main__":
     if var_1 == var_2:
         print("True")
