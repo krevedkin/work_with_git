@@ -6,6 +6,11 @@ var_2 = "var"
 new = "hello"
 new_2 = "world"
 
+
+def new_awesome_feature():
+    return "it so awesome!"
+
+
 if __name__ == "__main__":
     if var_1 == var_2:
         print("True")
